@@ -4,9 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf100c85-1cfb-420f-a1fa-cd6374e824b9" name="Changes" comment="create neccessary files">
+    <list default="true" id="cf100c85-1cfb-420f-a1fa-cd6374e824b9" name="Changes" comment="finished the employee class">
+      <change afterPath="$PROJECT_DIR$/Project_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/employee.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/project.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/test_department.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/test_employee.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/test_erms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/test_integration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/test_project.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/test_user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/test_validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/user.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/bikesh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/department.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/department.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/payroll.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/payroll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/report.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/report.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project_1/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_1/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/users.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +75,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_erms.py.executor": "Run",
+    "Python.department.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.test_integration.executor": "Run",
+    "Python.test_validation.executor": "Run",
     "Python.user.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -88,12 +117,30 @@
       <option name="project" value="LOCAL" />
       <updated>1772416712917</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finished the User class">
+      <option name="closed" value="true" />
+      <created>1772420149530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772420149530</updated>
+    </task>
+    <task id="LOCAL-00004" summary="finished the employee class">
+      <option name="closed" value="true" />
+      <created>1772462560397</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772462560397</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create a first file and clone to git the project" />
     <MESSAGE value="create neccessary files" />
-    <option name="LAST_COMMIT_MESSAGE" value="create neccessary files" />
+    <MESSAGE value="finished the User class" />
+    <MESSAGE value="finished the employee class" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished the employee class" />
   </component>
 </project>

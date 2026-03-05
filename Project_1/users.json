@@ -1,6 +1,17 @@
 {
     "bikesh": {
-        "password": "Bikesh9090",
+        "username": "bikesh",
+        "password": "bik123456",
+        "role": "Employee"
+    },
+    "Admin": {
+        "username": "Admin",
+        "password": "Admin123",
         "role": "Admin"
+    },
+    "Manager": {
+        "username": "Manager",
+        "password": "Manager123",
+        "role": "Manager"
     }
 }

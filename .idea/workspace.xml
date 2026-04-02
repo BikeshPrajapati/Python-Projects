@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf100c85-1cfb-420f-a1fa-cd6374e824b9" name="Changes" comment="finished the employee class">
+    <list default="true" id="cf100c85-1cfb-420f-a1fa-cd6374e824b9" name="Changes" comment="Create empty files for the projects">
       <change afterPath="$PROJECT_DIR$/Project_1/test_department.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project_1/test_employee.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project_1/test_erms.py" afterDir="false" />
@@ -12,27 +12,27 @@
       <change afterPath="$PROJECT_DIR$/Project_1/test_project.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project_1/test_user.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project_1/test_validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/,env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/app/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/app/extensions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/app/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/app/models/bookings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/app/models/services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/app/models/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/app/routes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/app/routes/booking_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/app/routes/service_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/app/routes/user_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/app/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/app/utils/errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/app/utils/validators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/requirement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_2/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project_1/bikesh" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Project_1/department.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1/department.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/,env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/app/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/app/extensions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/app/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/app/models/bookings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/app/models/services.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/app/models/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/app/routes/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/app/routes/booking_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/app/routes/service_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/app/routes/user_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/app/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/app/utils/errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/app/utils/validators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/requirement.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_2/run.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,20 +74,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests in test_erms.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.department.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_integration.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_validation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_erms.py.executor": "Run",
+    "Python.department.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.run.executor": "Run",
+    "Python.test_integration.executor": "Run",
+    "Python.test_validation.executor": "Run",
+    "Python.user.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -135,14 +137,34 @@
       <option name="project" value="LOCAL" />
       <updated>1772462560397</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Create empty files for the projects">
+      <option name="closed" value="true" />
+      <created>1775147726034</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775147726034</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create a first file and clone to git the project" />
     <MESSAGE value="create neccessary files" />
     <MESSAGE value="finished the User class" />
     <MESSAGE value="finished the employee class" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished the employee class" />
+    <MESSAGE value="Create empty files for the projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create empty files for the projects" />
   </component>
 </project>

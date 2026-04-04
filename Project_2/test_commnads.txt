@@ -1,0 +1,29 @@
+# 1. Start server
+python main.py
+
+# 2. In NEW window - Test API
+curl http://localhost:8000/
+
+# 3. Create user
+curl -X POST http://localhost:8000/users -H "Content-Type: application/json" -d "{\"name\":\"John Doe\",\"email\":\"john@test.com\"}"
+
+# 4. Get all users
+curl http://localhost:8000/users
+
+# 5. Get specific user (replace 1 with actual ID)
+curl http://localhost:8000/users/1
+
+# 6. Update user
+curl -X PUT http://localhost:8000/users/1 -H "Content-Type: application/json" -d "{\"name\":\"John Updated\"}"
+
+# 7. Delete user
+curl -X DELETE http://localhost:8000/users/1
+
+# 8. Get services
+curl http://localhost:8000/services
+
+# 9. Create booking (need valid user_id and service_id)
+curl -X POST http://localhost:8000/book -H "Content-Type: application/json" -d "{\"user_id\":1,\"service_id\":1,\"date\":\"2024-12-25\"}"
+
+# 10. Get user bookings
+curl http://localhost:8000/bookings/user/1
